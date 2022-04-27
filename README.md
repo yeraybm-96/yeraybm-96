@@ -11,8 +11,8 @@
 
 | Project Name | URL | Description |
 | ------------- |:-------------:|:--------------:|
-| yeraybm Scripts | [Discord](https://discord.gg/WgKtusuth7) | Fivem script store. |
 | LifeCity RP | [Discord](https://discord.gg/8nBrsaKtT5) | Spanish FiveM roleplay server. |
+| (Deprecated) yeraybm Scripts | [Discord](https://discord.gg/WgKtusuth7) | Fivem script store. |
 
 </h4>  
 
